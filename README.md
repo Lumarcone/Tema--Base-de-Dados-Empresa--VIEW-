@@ -15,6 +15,9 @@
 # Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
 ![image](https://github.com/Lumarcone/Tema--Base-de-Dados-Empresa--VIEW-/assets/137897667/9862efd2-f832-4e49-b041-56279ae9660e)
 
+# Adicione o campo data de validade. Insira novos produtos com essa informação;
+![image](https://github.com/Lumarcone/Tema--Base-de-Dados-Empresa--VIEW-/assets/137897667/3fa193d3-3cac-4699-ba10-46bf0e647ac4)
+
 
 # Crie uma view que mostra todos os produtos e suas respectivas marcas com validade vencida;
 ![image](https://github.com/Lumarcone/Tema--Base-de-Dados-Empresa--VIEW-/assets/137897667/7dfa21c4-2843-4fd9-9620-0bdd8554ee37)
