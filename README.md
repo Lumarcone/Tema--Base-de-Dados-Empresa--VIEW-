@@ -13,7 +13,7 @@ Selecionar os produtos com preço acima da média.
 
 # Pré-requisitos
 Foi utilizado o Mysql Workbench
-# Nome e / RA
+# Nome / RA
 Lucas Marcone Oliveira Freitas / RA 121708
 
 Abaixo optei por conta própria deixar os prints somente para uma vizualização e compreensão dos comandos
