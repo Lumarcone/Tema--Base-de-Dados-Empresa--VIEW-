@@ -1,3 +1,22 @@
+# Tema: Base de Dados Empresa (VIEW)
+
+# Descrição da Atividade
+
+Crie uma view que mostra todos os produtos e suas respectivas marcas;
+Crie uma view que mostra todos os produtos e seus respectivos fornecedores;
+Crie uma view que mostra todos os produtos e seus respectivos fornecedores e marcas;
+Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
+Adicione o campo data de validade. Insira novos produtos com essa informação;
+Crie uma view que mostra todos os produtos e suas respectivas marcas com validade vencida;
+Selecionar os produtos com preço acima da média.
+
+
+# Pré-requisitos
+Foi utilizado o Mysql Workbench
+# Nome e / RA
+Lucas Marcone Oliveira Freitas / RA 121708
+
+Abaixo optei por conta própria deixar os prints somente para uma vizualização e compreensão dos comandos
 
 
 # Crie uma view que mostra todos os produtos e suas respectivas marcas;
