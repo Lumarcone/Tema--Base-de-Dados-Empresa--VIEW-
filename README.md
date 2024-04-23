@@ -16,7 +16,7 @@ Foi utilizado o Mysql Workbench
 # Nome / RA
 Lucas Marcone Oliveira Freitas / RA 121708
 
-Abaixo optei por conta própria deixar os prints somente para uma vizualização e compreensão dos comandos
+Logo abaixo optei por conta própria deixar os prints somente para uma vizualização mais e compreensão dos comandos:
 
 
 # Crie uma view que mostra todos os produtos e suas respectivas marcas;
